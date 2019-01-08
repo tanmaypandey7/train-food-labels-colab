@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_products_images_20180301</folder>
+	<filename>0202311014107_2.jpg</filename>
+	<path>F:\new_products_images_20180301\new_products_images_20180301\0202311014107_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3081</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ingredients</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>85</ymin>
+			<xmax>3008</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+</annotation>
